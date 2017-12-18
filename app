@@ -29,3 +29,7 @@ free market would automatically drive optimal solutions. So if customers are rea
 
 approach relies on the assumption that free market competition would automatically firm tend to respect customer privacy more to as long as strategic customers "notice and consent" privacy usage.
 the free market would drive firms to adopt privacy-friendly policies through customer self-selection. 
+
+
+limitation: the market we are considering has reached a equilibrium state, not true
+empirica of directly measuring information request
