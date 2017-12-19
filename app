@@ -34,3 +34,10 @@ the free market would drive firms to adopt privacy-friendly policies through cus
 limitation: the market we are considering has reached a equilibrium state, not true
 some big companies make use of existing resources can distort the equilibrium
 empirica of directly measuring information request
+
+why tag+category
+
+use baidu marketplace category framework. because it is leading to 360 marketplace.
+intent to use baidu marketplace, category too general, tag some advertisement can not distinguish them. use 360 marketplace category to distinguish
+
+
