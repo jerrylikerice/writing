@@ -40,4 +40,4 @@ why tag+category
 use baidu marketplace category framework. because it is leading to 360 marketplace.
 intent to use baidu marketplace, category too general, tag some advertisement can not distinguish them. use 360 marketplace category to distinguish
 
-
+weighted permissions, alternative markets, permissions, rating/updates
