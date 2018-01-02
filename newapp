@@ -7,7 +7,12 @@ In this study we examine a fundamental question in the APP market: would competi
 
 We incorporate these characteristics into theoretical analysis and surprisingly find competition may NOT affect firm's tendency to acquire customer data. This result is a consequence of equilibirum distribution of APP vendor's strategic choice of quality and information request which follows a power-law pattern. We then use empirical data from two leading APP markets in China to verify our conjecture. Empirical evidence is consistent with(turns out to support ) our theoretical analysis: Leader APPs have high quality and request more customer information, the incentive to provide high quality and request customer information decrease exponentially. As a result, competition generally do not affect how much customer information APP vendors tend to require.
 
-The relationship between competition and privacy is crucial for the debate between regulation and self-regulation approach to provide better privacy environment.
+The relationship between competition and privacy is crucial for the debate over regulation() and self-regulation() solutions for privacy problems. Regulation approach focus on the loss of privacy violations and stress the need of strict privacy legislation which limit the collection and usage of personal data, while in self-regulation regime the privacy protection relies entirely on firm's self-regulated, competitio-driven data-handling policies. The self-regulation approach is rooted in the idea that the free market competition tend to generate optimal outcome, for example, 
+
+
+so if customers are not satisfied with currect privacy options, competing firms always have incentives to provide an equivalent choice with better privacy options. To the extent that competition may have no influence on the market participants, the effectiveness of self-regulation approach should be questioned.
+Conversely, our study suggest the inadequent side of the self-regulation side.
+
 Our work contribute to the literature about the consequence of free competition blessed(merited, promised,enabled) by online market. 
 In analyzing. our study also contribute to the general discussion of online market structure.
 
